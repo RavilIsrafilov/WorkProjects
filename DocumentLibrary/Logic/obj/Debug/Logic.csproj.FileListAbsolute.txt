@@ -1,0 +1,6 @@
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\Logic\bin\Debug\Logic.dll
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\Logic\bin\Debug\Logic.pdb
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\Logic\obj\Debug\Logic.dll
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\Logic\obj\Debug\Logic.pdb
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\Logic\bin\Debug\Logic.dll.config
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\Logic\obj\Debug\Logic.csprojResolveAssemblyReference.cache

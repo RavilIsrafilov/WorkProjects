@@ -1,0 +1,8 @@
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\DocumentLibrary\bin\Debug\DocumentLibrary.exe
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\DocumentLibrary\bin\Debug\DocumentLibrary.pdb
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\DocumentLibrary\bin\Debug\Logic.dll
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\DocumentLibrary\bin\Debug\Logic.pdb
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\DocumentLibrary\obj\Debug\DocumentLibrary.csprojResolveAssemblyReference.cache
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\DocumentLibrary\obj\Debug\DocumentLibrary.exe
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\DocumentLibrary\obj\Debug\DocumentLibrary.pdb
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\DocumentLibrary\bin\Debug\DocumentLibrary.exe.config

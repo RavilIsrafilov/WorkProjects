@@ -1,0 +1,12 @@
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\bin\Debug\FrontEnd.exe
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\bin\Debug\FrontEnd.pdb
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\obj\Debug\FrontEnd.Properties.Resources.resources
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\obj\Debug\FrontEnd.csproj.GenerateResource.Cache
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\obj\Debug\FrontEnd.pdb
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\obj\Debug\FrontEnd.csprojResolveAssemblyReference.cache
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\obj\Debug\FrontEnd.Main.resources
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\bin\Debug\Logic.dll
+C:\Users\IsrafilovR\Desktop\_MyProjects\DocumentLibrary\FrontEnd\bin\Debug\Logic.pdb
+C:\Users\Ravil\Desktop\Работа\DocumentLibrary\FrontEnd\obj\Debug\FrontEnd.exe
+C:\Users\Ravil\Desktop\Работа\DocumentLibrary\FrontEnd\obj\Debug\FrontEnd.pdb
